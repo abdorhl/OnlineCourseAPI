@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34316.72
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LSC.OnlineCourse.API", "LSC.OnlineCourse.API\LSC.OnlineCourse.API.csproj", "{8E6351DF-4331-4275-8735-445A29BE5D95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineCourse.API", "LSC.OnlineCourse.API\OnlineCourse.API.csproj", "{8E6351DF-4331-4275-8735-445A29BE5D95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSC.OnlineCourse.Data", "LSC.OnlineCourse.Data\LSC.OnlineCourse.Data.csproj", "{A3664CD3-FE7A-49E7-B460-4B76DF3CB63A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineCourse.Data", "LSC.OnlineCourse.Data\OnlineCourse.Data.csproj", "{A3664CD3-FE7A-49E7-B460-4B76DF3CB63A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSC.OnlineCourse.Core", "LSC.OnlineCourse.Core\LSC.OnlineCourse.Core.csproj", "{EA3816DE-B53D-4720-8A84-881D2AF8C50D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineCourse.Core", "LSC.OnlineCourse.Core\OnlineCourse.Core.csproj", "{EA3816DE-B53D-4720-8A84-881D2AF8C50D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSC.OnlineCourse.Service", "LSC.OnlineCourse.Service\LSC.OnlineCourse.Service.csproj", "{E8B6F7DC-9062-4768-9DF8-290E37ADBAA0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineCourse.Service", "LSC.OnlineCourse.Service\OnlineCourse.Service.csproj", "{E8B6F7DC-9062-4768-9DF8-290E37ADBAA0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

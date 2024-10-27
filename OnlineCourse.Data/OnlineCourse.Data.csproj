@@ -15,7 +15,7 @@
 		<PackageReference Include="Microsoft.Extensions.Hosting.Abstractions" Version="8.0.1" />
 	</ItemGroup>
 	<ItemGroup>
-	  <ProjectReference Include="..\LSC.OnlineCourse.Core\LSC.OnlineCourse.Core.csproj" />
+	  <ProjectReference Include="..\LSC.OnlineCourse.Core\OnlineCourse.Core.csproj" />
 	</ItemGroup>
 
 </Project>
